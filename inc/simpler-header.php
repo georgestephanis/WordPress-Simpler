@@ -1,0 +1,1 @@
+<?php require_once( ABSPATH . 'wp-admin/admin-header.php' );
